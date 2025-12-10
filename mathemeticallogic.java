@@ -10,7 +10,10 @@ public class mathemeticallogic  {
 	    System.out.println("After swap..."+a+"  "+b);  
 
 
-	
-	
+	// Reverse String using stringbuffer class
+	      String str= "anurag";
+	      StringBuffer sb=new StringBuffer(str);
+	      System.out.println(sb.reverse());
+
 	}}
 
